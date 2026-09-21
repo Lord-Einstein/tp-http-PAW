@@ -10,4 +10,11 @@ La méthode fetch (GET)
 /users/{id} pour préciser un user précis...
 
 - Etape 3.1 : /users/{id}/todos
-- Etape 3.2
+- Etape 3.2 : POST pour créer de nouvelles todos
+Exemple d'une todos : 
+{
+"userId": 1,
+"id": 1,
+"title": "delectus aut autem",
+"completed": false
+},
