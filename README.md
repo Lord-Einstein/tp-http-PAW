@@ -18,3 +18,7 @@ Exemple d'une todos :
 "title": "delectus aut autem",
 "completed": false
 },
+
+- Etape 4.1 & 4.2 : /users/{id}/todos et PUT pour le remplacement
+
+- Etape 5.1 & 5.2 : 
