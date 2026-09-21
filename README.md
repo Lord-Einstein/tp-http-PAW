@@ -19,6 +19,8 @@ Exemple d'une todos :
 "completed": false
 },
 
-- Etape 4.1 & 4.2 : /users/{id}/todos et PUT pour le remplacement
+- Etape 4.1 & 4.2 : /todos/{1} et PUT pour le remplacement
 
-- Etape 5.1 & 5.2 : 
+- Etape 5.1 & 5.2 : /todos/{1} et PATCH pour la modification
+
+- Etape 6 : /todos/{1} et DELETE pour le remplacement
